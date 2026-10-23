@@ -59,3 +59,7 @@ Open **http://localhost:8765**. The startup banner prints which CLIs were detect
 - `index.html` — the whole UI in vanilla JS. No build step.
 
 Titles and grouping come from each app's own local data — Claude's desktop session index and custom groups, Codex's `session_index.jsonl` and workspace labels — all read-only. Renames, pins, and archiving live only in Code Duo and never touch the official apps.
+
+---
+
+Author: Norika Oda (織田紀香) · https://norika.tw
